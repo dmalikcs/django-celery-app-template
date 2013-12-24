@@ -1,5 +1,4 @@
-django-app-template
-===================
+django-celery-app-template
+==========================
 
-How to setup celery application with 
-
+Django celery apps templat
